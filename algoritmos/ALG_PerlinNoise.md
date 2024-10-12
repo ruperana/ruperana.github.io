@@ -7,7 +7,7 @@
        for (int x = 0; x <= _mapa.GetUpperBound(0); x++) // Recorre el ancho del mapa
        {
            // obtener la altura para cada X del mapa
-           nuevoPunto = Mathf.FloorToInt(**Mathf.PerlinNoise**(x, _semilla) * _mapa.GetUpperBound(1));
+           nuevoPunto = Mathf.FloorToInt(Mathf.PerlinNoise(x, _semilla) * _mapa.GetUpperBound(1));
 
            for (int y = nuevoPunto; y >= 0; y--)
            {
