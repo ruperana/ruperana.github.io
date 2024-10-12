@@ -1,4 +1,8 @@
-### Perlin Noise
+## Perlin Noise
+
+#### [Introducción](https://en.wikipedia.org/wiki/Perlin_noise)
+
+### Perlin Noise Básico
 
     public static void PerlinNoise( int[,] _mapa, float _semilla)
     {
