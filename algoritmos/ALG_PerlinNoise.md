@@ -104,5 +104,8 @@ Para suavizarlo, se calculará la línea recta entre 2 posiciones. Dichas posici
 Ejemplo:
 Si el intervalo es de 7, se cogerían las posiciones 1 y 2 y se dibujaría la línea recta.
 
-![](https://github.com/ruperana/ruperana.github.io/blob/main/algoritmos/img/PerlinNoise_basico.png)
+![](https://github.com/ruperana/ruperana.github.io/blob/main/algoritmos/img/PerlinNoise_suav_1.png)
 
+El suavizado con un intervalo de 7 quedaría:
+
+![](https://github.com/ruperana/ruperana.github.io/blob/main/algoritmos/img/PerlinNoise_suav_2.png)
