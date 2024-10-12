@@ -5,4 +5,4 @@
 #### [Introducción al Tile Maps](https://learn.unity.com/tutorial/introduction-to-tilemaps?language=en)
 #### [Trabajando con Rule Tiles](https://learn.unity.com/tutorial/using-rule-tiles?language=en) 
 
-#### [Algoritmo Perlin Noise](ALG_perlinnoise.md)
+#### [Algoritmo Perlin Noise](ALG_PerlinNoise.md)
