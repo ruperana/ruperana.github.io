@@ -18,5 +18,8 @@
     }
 
 
-Con el método Mathf.PerlinNoise se consigue un número entre 0 y 1. El valor resultante se multiplica por la altura del mapa (_mapa.GetUpperBound(1)) para conseguir la altura que va a tener la posición X del mapa.
+Con el método **Mathf.PerlinNoise** se consigue un número entre 0 y 1. El valor resultante se multiplica por la altura del mapa (_mapa.GetUpperBound(1)) para conseguir la altura que va a tener la posición X del mapa.
 
+Ejemplo de resultado:
+
+![Perlin Noise Básico](/img/PerlinNoise_basico.png)
