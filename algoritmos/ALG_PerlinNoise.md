@@ -22,4 +22,4 @@ Con el método **Mathf.PerlinNoise** se consigue un número entre 0 y 1. El valo
 
 Ejemplo de resultado:
 
-![Perlin Noise Básico](/img/PerlinNoise_basico.png)
+![](https://github.com/ruperana/ruperana.github.io/blob/main/algoritmos/img/PerlinNoise_basico.png)
