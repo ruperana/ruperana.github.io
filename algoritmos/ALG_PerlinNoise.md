@@ -88,3 +88,21 @@ Ejemplo de resultado:
              PerlinNoise( _mapa, _semilla);
         }     
     }
+
+El suavizado ocurre a través de los siguientes pasos:
+1.	Obtener la posición actual y la última posición
+2.	Calcular la diferencia entre las dos posiciones, la información clave es la diferencia en el eje Y
+3.	A continuación, determina en cuánto se debe cambiar el hit, esto se hace dividiendo la diferencia por la variable de intervalo.
+4.	Ahora se puede empezar a establecer las posiciones. Se hará el relleno desde la altura obtenida hasta cero.
+5.	Cuando se llegue a 0 en el eje y, agregar el cambio de altura a la altura actual y repetir el proceso para la siguiente posición x
+6.	Una vez que se haya realizado todas las posiciones entre la última posición y la posición actual, se pasa al siguiente punto.
+
+Si el intervalo es menor que uno, simplemente usamos la función anterior para que haga el trabajo.
+
+Para suavizarlo, se calculará la línea recta entre 2 posiciones. Dichas posiciones vendrán dadas por intervalo.
+
+Ejemplo:
+Si el intervalo es de 7, se cogerían las posiciones 1 y 2 y se dibujaría la línea recta.
+
+![](https://github.com/ruperana/ruperana.github.io/blob/main/algoritmos/img/PerlinNoise_basico.png)
+
