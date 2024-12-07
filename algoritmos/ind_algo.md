@@ -7,5 +7,5 @@
 
 #### [Algoritmo Perlin Noise](ALG_PerlinNoise.md)
 #### Algoritmo Random Walk 
-#### Algoritmo Random Walk Suavizado
+
 
