@@ -6,3 +6,6 @@
 #### [Trabajando con Rule Tiles](https://learn.unity.com/tutorial/using-rule-tiles?language=en) 
 
 #### [Algoritmo Perlin Noise](ALG_PerlinNoise.md)
+#### Algoritmo Random Walk 
+#### Algoritmo Random Walk Suavizado
+
