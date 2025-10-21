@@ -27,7 +27,7 @@ Con el método **Mathf.PerlinNoise** se consigue un número entre 0 y 1. El valo
 
 Ejemplo de resultado:
 
-![](https://github.com/ruperana/ruperana.github.io/blob/main/algoritmos/img/PerlinNoise_basico.png)
+![](/img/PerlinNoise_basico.png)
 
 
 ### Perlin Noise Suavizado
