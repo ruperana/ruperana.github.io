@@ -27,9 +27,8 @@ Con el método **Mathf.PerlinNoise** se consigue un número entre 0 y 1. El valo
 
 Ejemplo de resultado:
 
-![Imagen Perlin Noise](img/PerlinNoise_basico.png)
 
-<image src="/img/PerlinNoise_basico.png" alt="Descripción de la imagen">
+<image src="/img/PerlinNoise_basico.png" alt="Perlin noise">
 
 [https://github.com/ruperana/ruperana.github.io/blob/main/algoritmos/img/PerlinNoise_basico.png]: #
 
@@ -112,8 +111,11 @@ Para suavizarlo, se calculará la línea recta entre 2 posiciones. Dichas posici
 Ejemplo:
 Si el intervalo es de 7, se cogerían las posiciones 1 y 2 y se dibujaría la línea recta.
 
-![](https://github.com/ruperana/ruperana.github.io/blob/main/algoritmos/img/PerlinNoise_suav_1.png)
+[![](https://github.com/ruperana/ruperana.github.io/blob/main/algoritmos/img/PerlinNoise_suav_1.png)]: #
+<image src="/img/PerlinNoise_suav_1.png" alt="Perlin noise suavizado">
+
 
 El suavizado con un intervalo de 7 quedaría:
 
-![](https://github.com/ruperana/ruperana.github.io/blob/main/algoritmos/img/PerlinNoise_suav_2.png)
+[![](https://github.com/ruperana/ruperana.github.io/blob/main/algoritmos/img/PerlinNoise_suav_2.png)]: #
+<image src="/img/PerlinNoise_suav_2.png" alt="Perlin noise suavizado">
