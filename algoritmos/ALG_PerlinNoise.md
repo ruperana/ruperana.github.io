@@ -28,7 +28,7 @@ Con el método **Mathf.PerlinNoise** se consigue un número entre 0 y 1. El valo
 Ejemplo de resultado:
 
 
-<image src="/img/PerlinNoise_basico.png" alt="Perlin noise">
+![Ejemplo de Perlin Noise básico](/img//img/PerlinNoise_basico.png)
 
 
 ### Perlin Noise Suavizado
