@@ -4,4 +4,4 @@
 ## [Algoritmos Plataforma 2D](/algoritmos/ind_algo.md)
 
 
-#### Sobre mi(/algoritmos/presentacion.md)
+#### [Sobre mi](/algoritmos/presentacion.md)
