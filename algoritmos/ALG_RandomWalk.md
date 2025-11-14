@@ -6,7 +6,9 @@
 
 En la Wikipedia :
 La caminata aleatoria o paseo aleatorio o camino aleatorio, abreviado en inglés como RW (Random Walks), es una formalización matemática de la trayectoria que resulta de hacer sucesivos pasos aleatorios. Por ejemplo, la ruta trazada por una molécula mientras viaja por un líquido o un gas, el camino que sigue un animal en su búsqueda de comida, el precio de una acción fluctuante y la situación financiera de un jugador pueden tratarse como una caminata aleatoria. El término caminata aleatoria fue introducido por Karl Pearson en 1905.
+
 ![](img/caminoAleatorio.png)
+
 La forma en que funciona este algoritmo es lanzando una moneda. Entonces obtenemos uno de dos resultados. Si el resultado es cara, subimos un bloque, si el resultado es cruz, bajamos un bloque. Esto crea algo de altura a nuestro nivel moviéndose siempre hacia arriba o hacia abajo. El único inconveniente de este algoritmo es que se ve muy bloqueado. Echemos un vistazo a cómo funciona.
 Esta generación nos brinda una altura más suave en comparación con la generación de ruido Perlin.
 Algoritmo:
